@@ -38,4 +38,4 @@ Reference Temperature:
 
 Output temperature: 
 
-## Result: 
+## Result:
