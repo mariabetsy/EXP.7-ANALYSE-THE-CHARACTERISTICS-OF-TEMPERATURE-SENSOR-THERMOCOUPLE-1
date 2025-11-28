@@ -33,8 +33,13 @@ When you click on 'Level 2' tab, you can verify the Dynamic response of the ther
 ## output:
 
 Thermocouple type:
+<img width="280" height="364" alt="image" src="https://github.com/user-attachments/assets/8bcab162-fe8c-448a-bae1-c619c036b913" />
+
 
 Reference Temperature:
+<img width="1142" height="715" alt="image" src="https://github.com/user-attachments/assets/37e54003-9727-48f0-ab94-faae0f06fc3b" />
+
+
 
 Output temperature: 
 
