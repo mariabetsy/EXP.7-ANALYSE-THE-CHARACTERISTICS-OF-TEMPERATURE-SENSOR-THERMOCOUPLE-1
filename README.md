@@ -33,14 +33,18 @@ When you click on 'Level 2' tab, you can verify the Dynamic response of the ther
 ## output:
 
 Thermocouple type:
-<img width="280" height="364" alt="image" src="https://github.com/user-attachments/assets/8bcab162-fe8c-448a-bae1-c619c036b913" />
+<img width="776" height="488" alt="image" src="https://github.com/user-attachments/assets/981c23f1-e29c-497c-b875-5cb0055ab82b" />
 
 
 Reference Temperature:
-<img width="1142" height="715" alt="image" src="https://github.com/user-attachments/assets/37e54003-9727-48f0-ab94-faae0f06fc3b" />
+<img width="776" height="488" alt="image" src="https://github.com/user-attachments/assets/51f6d9f6-d058-48e4-b4ce-12c03df26e75" />
 
 
+Output temperature:
+<img width="774" height="571" alt="image" src="https://github.com/user-attachments/assets/ab50c2a9-1057-4ed6-8690-67111c2d0bc3" />
 
-Output temperature: 
+
 
 ## Result:
+Thus ANALYSE-THE-CHARACTERISTICS-OF-TEMPERATURE-SENSOR-THERMOCOUPLE-1 is Verified.
+
